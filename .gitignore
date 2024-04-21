@@ -1,0 +1,7 @@
+.chainlit/
+.files/
+__pycache__/
+outputs/
+venv/
+winenv/
+*.bin

@@ -22,3 +22,8 @@ Running this script will generate a vector database
 chainlit run model.py -w
 ```
 
+## References
+[1] https://github.com/AIAnytime/Chat-with-PDF-Chatbot
+
+[2] https://github.com/AIAnytime/Llama2-Medical-Chatbot
+
